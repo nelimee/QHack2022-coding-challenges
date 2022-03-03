@@ -1,4 +1,4 @@
-# QHack 2022 Coding Challenge
+# QHack 2022 Coding Challenge -- `my_favourite_team`
 
 The [QHack 2022 Coding Challenge (non permanent URL)](https://challenge.qhack.ai) is a challenge that took place between the 14th and the 25th of February.
 
